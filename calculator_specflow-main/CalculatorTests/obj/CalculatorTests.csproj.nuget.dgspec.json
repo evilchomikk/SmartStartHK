@@ -1,0 +1,88 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Hubert\\Desktop\\calculator_specflow-main\\CalculatorTests\\CalculatorTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Hubert\\Desktop\\calculator_specflow-main\\CalculatorTests\\CalculatorTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Hubert\\Desktop\\calculator_specflow-main\\CalculatorTests\\CalculatorTests.csproj",
+        "projectName": "CalculatorTests",
+        "projectPath": "C:\\Users\\Hubert\\Desktop\\calculator_specflow-main\\CalculatorTests\\CalculatorTests.csproj",
+        "packagesPath": "C:\\Users\\Hubert\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hubert\\Desktop\\calculator_specflow-main\\CalculatorTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "X:\\VS\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Hubert\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {
+              "C:\\Users\\Hubert\\Desktop\\calculator_specflow-main\\SDP23\\SDP23.csproj": {
+                "projectPath": "C:\\Users\\Hubert\\Desktop\\calculator_specflow-main\\SDP23\\SDP23.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.15.1, )"
+            },
+            "SpecFlow.NUnit": {
+              "target": "Package",
+              "version": "[3.3.57, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Hubert\\Desktop\\calculator_specflow-main\\SDP23\\SDP23.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Hubert\\Desktop\\calculator_specflow-main\\SDP23\\SDP23.csproj",
+        "projectName": "SDP23",
+        "projectPath": "C:\\Users\\Hubert\\Desktop\\calculator_specflow-main\\SDP23\\SDP23.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    }
+  }
+}
