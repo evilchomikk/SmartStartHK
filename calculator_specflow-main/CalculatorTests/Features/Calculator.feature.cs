@@ -166,8 +166,8 @@ this.ScenarioInitialize(scenarioInfo);
         [NUnit.Framework.TestAttribute()]
         [NUnit.Framework.DescriptionAttribute("Delta")]
         [NUnit.Framework.TestCaseAttribute("1", "2", "-3", "2", null)]
-        [NUnit.Framework.TestCaseAttribute("4", "2", "1", "1", null)]
         [NUnit.Framework.TestCaseAttribute("2", "1", "2", "0", null)]
+        [NUnit.Framework.TestCaseAttribute("1", "2", "1", "1", null)]
         public virtual void Delta(string x, string y, string z, string result, string[] exampleTags)
         {
             string[] tagsOfScenario = exampleTags;

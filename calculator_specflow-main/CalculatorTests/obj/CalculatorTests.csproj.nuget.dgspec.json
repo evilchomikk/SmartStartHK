@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hubert\\Desktop\\calculator_specflow-main\\CalculatorTests\\CalculatorTests.csproj": {}
+    "X:\\Unity\\SZKOŁA\\SmartStartHK\\calculator_specflow-main\\CalculatorTests\\CalculatorTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hubert\\Desktop\\calculator_specflow-main\\CalculatorTests\\CalculatorTests.csproj": {
+    "X:\\Unity\\SZKOŁA\\SmartStartHK\\calculator_specflow-main\\CalculatorTests\\CalculatorTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hubert\\Desktop\\calculator_specflow-main\\CalculatorTests\\CalculatorTests.csproj",
+        "projectUniqueName": "X:\\Unity\\SZKOŁA\\SmartStartHK\\calculator_specflow-main\\CalculatorTests\\CalculatorTests.csproj",
         "projectName": "CalculatorTests",
-        "projectPath": "C:\\Users\\Hubert\\Desktop\\calculator_specflow-main\\CalculatorTests\\CalculatorTests.csproj",
+        "projectPath": "X:\\Unity\\SZKOŁA\\SmartStartHK\\calculator_specflow-main\\CalculatorTests\\CalculatorTests.csproj",
         "packagesPath": "C:\\Users\\Hubert\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hubert\\Desktop\\calculator_specflow-main\\CalculatorTests\\obj\\",
+        "outputPath": "X:\\Unity\\SZKOŁA\\SmartStartHK\\calculator_specflow-main\\CalculatorTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "X:\\VS\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net48": {
             "targetAlias": "net48",
             "projectReferences": {
-              "C:\\Users\\Hubert\\Desktop\\calculator_specflow-main\\SDP23\\SDP23.csproj": {
-                "projectPath": "C:\\Users\\Hubert\\Desktop\\calculator_specflow-main\\SDP23\\SDP23.csproj"
+              "X:\\Unity\\SZKOŁA\\SmartStartHK\\calculator_specflow-main\\SDP23\\SDP23.csproj": {
+                "projectPath": "X:\\Unity\\SZKOŁA\\SmartStartHK\\calculator_specflow-main\\SDP23\\SDP23.csproj"
               }
             }
           }
@@ -69,11 +69,11 @@
         }
       }
     },
-    "C:\\Users\\Hubert\\Desktop\\calculator_specflow-main\\SDP23\\SDP23.csproj": {
+    "X:\\Unity\\SZKOŁA\\SmartStartHK\\calculator_specflow-main\\SDP23\\SDP23.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hubert\\Desktop\\calculator_specflow-main\\SDP23\\SDP23.csproj",
+        "projectUniqueName": "X:\\Unity\\SZKOŁA\\SmartStartHK\\calculator_specflow-main\\SDP23\\SDP23.csproj",
         "projectName": "SDP23",
-        "projectPath": "C:\\Users\\Hubert\\Desktop\\calculator_specflow-main\\SDP23\\SDP23.csproj",
+        "projectPath": "X:\\Unity\\SZKOŁA\\SmartStartHK\\calculator_specflow-main\\SDP23\\SDP23.csproj",
         "frameworks": {
           "net48": {
             "projectReferences": {}

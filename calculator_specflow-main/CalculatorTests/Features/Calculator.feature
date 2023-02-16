@@ -22,8 +22,8 @@ Scenario Outline: Delta
 Examples: 
 | x  | y   | z  | result |
 | 1  | 2   | -3 | 2		 |
-| 4  | 2   | 1  | 1		 |
 | 2  | 1   | 2	|	0    |
+| 1  | 2   | 1  | 1		 |
 
 
 

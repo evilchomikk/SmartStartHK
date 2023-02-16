@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "afwmkrtdOKSZVt0M0HYZ5FudOf2ZN5j6pEbO362St7Ioe1O6MzACGONDL2oYHQVOYAhp2gF6QTugh4AkgT2mUw==",
+  "dgSpecHash": "1W63EZMhtGIhXpzQ2y7z7KsKcbxO0SmrdoxLYPwMTSFrPWrYOOD5aOqhY3qyWco3DEOFdtO/ZLP373Debc5zRw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hubert\\Desktop\\calculator_specflow-main\\CalculatorTests\\CalculatorTests.csproj",
+  "projectFilePath": "X:\\Unity\\SZKOŁA\\SmartStartHK\\calculator_specflow-main\\CalculatorTests\\CalculatorTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hubert\\.nuget\\packages\\bodi\\1.4.1\\bodi.1.4.1.nupkg.sha512",
     "C:\\Users\\Hubert\\.nuget\\packages\\cucumber.messages\\6.0.1\\cucumber.messages.6.0.1.nupkg.sha512",
